@@ -17,7 +17,7 @@ https://simpleicons.org/
 [![HackerRank](https://img.shields.io/badge/Hacker%20rank-TONYMARK-green)](https://www.hackerrank.com/sasipclass)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
-<h2 align='center'><samp><strong>Hi there 👋, I am TONYMARK</strong></samp></h2>
+<h2 align='center'><samp><strong>Hi there 👋, I am Thimira</strong></samp></h2>
 <h3 align='center'><strong><a href="#" target="_blank">Portfolio🌐</a></strong></h3>
 <p align='center'>Software developer | Full-stack JavaScript | Node/React developer | Web developer</p>
 
